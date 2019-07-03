@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DE-Project---Laplace-Transform:jar">
+    <output-path>$PROJECT_DIR$/output/artifacts/DE_Project___Laplace_Transform_jar</output-path>
+    <root id="archive" name="DE-Project---Laplace-Transform.jar">
+      <element id="module-output" name="DE-Project---Laplace-Transform" />
+    </root>
+  </artifact>
+</component>
